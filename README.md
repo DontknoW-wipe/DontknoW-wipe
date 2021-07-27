@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I’m @DontknoW-wipe</h3>
+<h3 align="left">👋 Hi, I’m Kamal Murmu</h3>
 <h3 align="left">👀 I’m interested in software development.</h3>
 <h3 align="left">🌱 I’m currently learning web development and practice coding.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dontknow-wipe&label=Profile%20views&color=0e75b6&style=flat" alt="dontknow-wipe" /> </p>
